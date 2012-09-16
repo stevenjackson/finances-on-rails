@@ -12,7 +12,7 @@
 //
 //= require jquery
 //= require jquery_ujs
-//= require_tree .
+//= require jquery/event/drag
 //= require slick
 //= require slick/editors
-
+//= require_tree .

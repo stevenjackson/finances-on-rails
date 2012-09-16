@@ -10,4 +10,6 @@
  *
  *= require_self
  *= require_tree .
+ *= require "slick/grid"
+ *= require "slick/default-theme"
  */

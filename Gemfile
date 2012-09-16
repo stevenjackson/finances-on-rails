@@ -12,7 +12,9 @@ group :assets do
   gem 'uglifier', '1.2.3'
 end
 
-gem 'jquery-rails', '2.0.0'
+gem 'jquery-rails'
+gem 'jquery-plugins-rails'
+gem 'jquery-ui-rails'
 
 group :test, :development do
   gem 'rspec-rails', '2.10.0'
